@@ -1,0 +1,14 @@
+.carta{
+    background-color: rgb(255, 255, 255);
+    width: max-content;
+    height: max-content;
+    border-radius: 8px;
+    padding: 5px;
+    margin: auto;
+}
+
+
+h1{
+    font-weight: bold;
+}
+
